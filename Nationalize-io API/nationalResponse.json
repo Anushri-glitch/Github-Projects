@@ -1,0 +1,20 @@
+{
+  "country":
+      [{
+          "country_id":"GH",
+          "probability":0.224},
+       {
+          "country_id":"PH",
+          "probability":0.084},
+       { 
+          "country_id":"NG",
+          "probability":0.073},
+       {
+          "country_id":"US",
+          "probability":0.061},
+       {
+          "country_id":"NE",
+          "probability":0.034
+       }],
+  "name":"nathaniel"
+}
